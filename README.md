@@ -10,17 +10,20 @@
 
 ### Team Members
 - Team Lead: Reno - Mar Baselios College of Engineering and Technology, Kuttikkanam
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+
 
 ### Project Description
 you can crack and hatch an egg.
 
+
 ### The Problem (that doesn't exist)
 after the egg hatches, the new egg is empty.
 
+
 ### The Solution (that nobody asked for)
 The first Egg had Chick inside.
+
+
 ## Technical Details
 ### Technologies/Components Used
 For Software:
@@ -29,30 +32,19 @@ For Software:
 - python
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>hATCH ME</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
+       
         @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Inter:wght@400;700&display=swap');
 
       body {
@@ -731,8 +723,8 @@ For Software:
             animation: crowFly 35s linear infinite 5s, flap 0.5s ease-in-out infinite;
         }
     </style>
-</head>
-<body class="flex flex-col items-center justify-center min-h-screen text-gray-800">
+    </head>
+    <body class="flex flex-col items-center justify-center min-h-screen text-gray-800">
 
     <div class="sun"></div>
     <div class="cloud still-1"><div class="cloud-body"></div></div>
@@ -937,8 +929,8 @@ For Software:
             eggContainer.addEventListener('click', handleEggClick);
         });
     </script>
-</body>
-</html>
+    </body>
+    </html>
 
 # Screenshots (Add at least 3)
 https://drive.google.com/file/d/1w6PKeNjDXax7A6ryEjnGJpW0ZnUtBMJq/view?usp=drive_link
@@ -950,28 +942,7 @@ after clicking 3 times the egg hatches
 https://drive.google.com/file/d/1EtDbGTqw8xaFb0-Ar9HcJZnZ8Vs0ZdTQ/view?usp=drive_link
 egg hatches and the chick grows to final form
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
